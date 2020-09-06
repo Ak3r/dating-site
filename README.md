@@ -1,3 +1,3 @@
 # dating-site
 ###Demo
-[link to demo!](wrathful-milk.surge.sh)
+[link to demo!](http://wrathful-milk.surge.sh/how.html)
