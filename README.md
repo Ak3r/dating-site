@@ -1,3 +1,3 @@
 # dating-site
 ### Demo
-[link to demo!]('htttp://thoughtful-word.surge.sh')
+[link to demo!](http://thoughtful-word.surge.sh)
